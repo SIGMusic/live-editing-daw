@@ -1,5 +1,6 @@
 # live-editing-daw
-https://docs.google.com/document/d/1Y1X2x_vhoje0_jWs9ARUIZOoUR-rXwjBO4kdvKzfS4s/
+Project Overview: https://docs.google.com/document/d/1Y1X2x_vhoje0_jWs9ARUIZOoUR-rXwjBO4kdvKzfS4s/  
+Backend Docs: https://docs.google.com/document/d/1IK9tyL-lfFAls797bsed2RfetaJ4mmVFGWhQ7wo1LBk/  
 
 File Structure:  
   * Backend:    
